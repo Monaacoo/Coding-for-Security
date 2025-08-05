@@ -1,0 +1,13 @@
+{
+    "nome": "Lucas",
+    "sobrenome": "Monaco",
+    "idadae": 20,
+    "endereco": {
+        "rua": "Rua Legal",
+        "cep": 11007654,
+        "bairro": "Bairro Legal",
+        "complemento": "BD88",
+        "cidade": "Sao Paulo",
+        "estado": "Sao Paulo"
+    }
+}
